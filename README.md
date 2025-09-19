@@ -1,7 +1,7 @@
 # Simulatrix 2D Simulation Engine 🌀
 
 
-**Author:** ChatGPT (Dhanwanth's Edition)
+**Author:** Dhanwanth.V
 **Language:** Python 3 (Pygame)
 **License:** MIT
 

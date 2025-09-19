@@ -1,6 +1,5 @@
 # Simulatrix 2D Simulation Engine 🌀
 
-![Demo GIF or Screenshot](screenshot.png) <!-- optional, replace with actual screenshot -->
 
 **Author:** ChatGPT (Dhanwanth's Edition)
 **Language:** Python 3 (Pygame)
